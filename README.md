@@ -6,4 +6,4 @@ This project introduces GPTD3, a two-stage collaborative strategy that combines 
 
 🔧 Technology Stack
 TD3 Vs PID
-![trajectory0111](https://github.com/user-attachments/assets/36e52dc1-0ed8-43b9-8798-285e74529e99)
+<img src="https://github.com/user-attachments/assets/36e52dc1-0ed8-43b9-8798-285e74529e99" width="400" alt="trajectory0111" />
