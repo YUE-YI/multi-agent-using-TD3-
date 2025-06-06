@@ -5,6 +5,5 @@ Efficient leader-follower coordination in multi-agent systems with unknown dynam
 This project introduces GPTD3, a two-stage collaborative strategy that combines Gaussian Process (GP) for dynamic modeling and Twin Delayed Deep Deterministic Policy Gradient (TD3) for policy optimization. It aims to address the leader-follower coordination problem in mobile multi-agent systems (MAS) with unknown dynamics.
 
 🔧 Technology Stack
-PyTorch: For deep learning and tensor computation.
-GPyTorch: For Gaussian process modeling and Bayesian inference.
+TD3 Vs PID
 ![trajectory0111](https://github.com/user-attachments/assets/36e52dc1-0ed8-43b9-8798-285e74529e99)
