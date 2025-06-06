@@ -6,4 +6,13 @@ This project introduces GPTD3, a two-stage collaborative strategy that combines 
 
 🔧 Technology Stack
 TD3 Vs PID
+![trajectory0111](https://github.com/user-attachments/assets/c806df2c-0ab7-43ed-83f3-313d972a4c4d)
+
+TD3_1+TD3_2(formation)
+![trajectory_frame_260](https://github.com/user-attachments/assets/917baa7f-3df8-40e1-926d-097c57cbd1fc)
+
+TD3_1+TD3_2(polymerization)
+![multi polymerization](https://github.com/user-attachments/assets/a41c4eef-9d4f-4afe-a264-c8a0413ffbbc)
+
+
 
